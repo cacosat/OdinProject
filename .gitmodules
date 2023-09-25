@@ -1,3 +1,3 @@
 [submodule "javascript-excercises"]
 	path = javascript-excercises
-	url = https://github.com/cacosat/javascript-exercises
+	url = git@github.com:cacosat/javascript-exercises.git
